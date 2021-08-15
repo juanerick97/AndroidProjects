@@ -9,6 +9,7 @@ import android.view.View;
 import android.widget.EditText;
 
 //Just testing to see if the laptop version works
+//Test 2
 public class MainActivity extends AppCompatActivity {
     private static final String LOG_TAG = MainActivity.class.getSimpleName(); //This Tag seems to get the name of the current class
     public static final String EXTRA_MESSAGE = "com.example.twoactivities.extra.MESSAGE";
