@@ -1,8 +1,24 @@
 <resources>
-    <string name="app_name">TwoActivities</string>
-    <string name="button_main">Send</string>
-    <string name="text_header">Message Received</string>
-    <string name="editText_main">Enter Your Message Here</string>
-    <string name="button_second">Reply</string>
-    <string name="editText_second">Enter Your Reply Here</string>
+    <string name="app_name">BHealthy!!</string>
+    <string name="breakfast">Breakfast</string>
+    <string name="lunch">Lunch</string>
+    <string name="dinner">Dinner</string>
+    <string name="food_details">Food name and description</string>
+    <string name="image_view">Image View</string>
+    <string name="action_settings">Settings</string>
+    <string-array name = "programming_language">
+        <item>R</item>
+        <item>Python</item>
+        <item>C</item>
+        <item>Swift</item>
+        <item>C#</item>
+    </string-array>
+
+    <string-array name = "letters">
+        <item>w</item>
+        <item>b</item>
+        <item>v</item>
+        <item>s</item>
+        <item>z</item>
+    </string-array>
 </resources>
